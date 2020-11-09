@@ -1,0 +1,17 @@
+body, html {   
+    width: 100%;
+    height: 100%;
+    display:table;
+}
+body {
+    display:table-cell;
+    vertical-align:middle;
+   /* background-color: #85c1e9 ;*/
+    /*background-color:#e9ecf2; */
+    background-size:cover;
+
+}
+form,img {
+   /* display:table; shrinks to fit content */
+    margin:auto;
+}

@@ -1,0 +1,27 @@
+.color-blue {
+	color: #1f618d ;
+}
+
+.color-red {
+	color :  #c0392b ;
+}
+
+.color-green {
+	color: #229954 ;
+}
+
+.color-white {
+	color:#ffffff;
+}
+
+.bg-color-blue {
+	background-color: #1f618d ;
+}
+
+.bg-color-red {
+	background-color :  #c0392b ;
+}
+
+.bg-color-green {
+	background-color: #229954 ;
+}
